@@ -1,3 +1,4 @@
+Teste
 Rio de Janeiro - 01 de 2013
 
 {composition-setup}cloak.toggle.type=wiki{composition-setup}
