@@ -1,0 +1,179 @@
+Rio de Janeiro - 01 de 2013
+
+{composition-setup}cloak.toggle.type=wiki{composition-setup}
+{style}cite {font-size: 8pt;}{style}
+{deck:id=[Unique Deck ID]|effectType=fade|loopCards=false|tabLocation=top}
+
+{card:label=Lançamentos}
+{info:title=Para lançamentos, clique em "Edit" a direita e depois clique no dia desejado}Não utilize "." ou "," e apenas utilize números inteiros.{info}
+
+{section:border=false}{column}
+| {center}{color:red}*Domingo*{color}{center} | {center}*Segunda*{center} | {center}*Terça*{center} | {center}*Quarta*{center} | {center}*Quinta*{center} | {center}*Sexta*{center} | {center}{color:red}*Sábado*{color}{center} |
+|| || | ^{toggle-cloak:id=Dia 01-01-2013}01/01/2013^\\ ??Lançadas: {eval-data:Total Dia 01-01-2013}sumtable("Timesheet 01-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 01-01-2013}${Total Dia 01-01-2013} - ${Úteis 01-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 02-01-2013}02/01/2013^\\ ??Lançadas: {eval-data:Total Dia 02-01-2013}sumtable("Timesheet 02-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 02-01-2013}${Total Dia 02-01-2013} - ${Úteis 02-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 03-01-2013}03/01/2013^\\ ??Lançadas: {eval-data:Total Dia 03-01-2013}sumtable("Timesheet 03-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 03-01-2013}${Total Dia 03-01-2013} - ${Úteis 03-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 04-01-2013}04/01/2013^\\ ??Lançadas: {eval-data:Total Dia 04-01-2013}sumtable("Timesheet 04-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 04-01-2013}${Total Dia 04-01-2013} - ${Úteis 04-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 05-01-2013}05/01/2013^\\ ??Lançadas: {eval-data:Total Dia 05-01-2013}sumtable("Timesheet 05-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 05-01-2013}${Total Dia 05-01-2013} - ${Úteis 05-01-2013}{eval-data}??
+| ^{toggle-cloak:id=Dia 06-01-2013}06/01/2013^\\ ??Lançadas: {eval-data:Total Dia 06-01-2013}sumtable("Timesheet 06-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 06-01-2013}${Total Dia 06-01-2013} - ${Úteis 06-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 07-01-2013}07/01/2013^\\ ??Lançadas: {eval-data:Total Dia 07-01-2013}sumtable("Timesheet 07-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 07-01-2013}${Total Dia 07-01-2013} - ${Úteis 07-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 08-01-2013}08/01/2013^\\ ??Lançadas: {eval-data:Total Dia 08-01-2013}sumtable("Timesheet 08-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 08-01-2013}${Total Dia 08-01-2013} - ${Úteis 08-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 09-01-2013}09/01/2013^\\ ??Lançadas: {eval-data:Total Dia 09-01-2013}sumtable("Timesheet 09-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 09-01-2013}${Total Dia 09-01-2013} - ${Úteis 09-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 10-01-2013}10/01/2013^\\ ??Lançadas: {eval-data:Total Dia 10-01-2013}sumtable("Timesheet 10-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 10-01-2013}${Total Dia 10-01-2013} - ${Úteis 10-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 11-01-2013}11/01/2013^\\ ??Lançadas: {eval-data:Total Dia 11-01-2013}sumtable("Timesheet 11-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 11-01-2013}${Total Dia 11-01-2013} - ${Úteis 11-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 12-01-2013}12/01/2013^\\ ??Lançadas: {eval-data:Total Dia 12-01-2013}sumtable("Timesheet 12-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 12-01-2013}${Total Dia 12-01-2013} - ${Úteis 12-01-2013}{eval-data}??
+| ^{toggle-cloak:id=Dia 13-01-2013}13/01/2013^\\ ??Lançadas: {eval-data:Total Dia 13-01-2013}sumtable("Timesheet 13-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 13-01-2013}${Total Dia 13-01-2013} - ${Úteis 13-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 14-01-2013}14/01/2013^\\ ??Lançadas: {eval-data:Total Dia 14-01-2013}sumtable("Timesheet 14-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 14-01-2013}${Total Dia 14-01-2013} - ${Úteis 14-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 15-01-2013}15/01/2013^\\ ??Lançadas: {eval-data:Total Dia 15-01-2013}sumtable("Timesheet 15-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 15-01-2013}${Total Dia 15-01-2013} - ${Úteis 15-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 16-01-2013}16/01/2013^\\ ??Lançadas: {eval-data:Total Dia 16-01-2013}sumtable("Timesheet 16-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 16-01-2013}${Total Dia 16-01-2013} - ${Úteis 16-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 17-01-2013}17/01/2013^\\ ??Lançadas: {eval-data:Total Dia 17-01-2013}sumtable("Timesheet 17-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 17-01-2013}${Total Dia 17-01-2013} - ${Úteis 17-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 18-01-2013}18/01/2013^\\ ??Lançadas: {eval-data:Total Dia 18-01-2013}sumtable("Timesheet 18-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 18-01-2013}${Total Dia 18-01-2013} - ${Úteis 18-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 19-01-2013}19/01/2013^\\ ??Lançadas: {eval-data:Total Dia 19-01-2013}sumtable("Timesheet 19-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 19-01-2013}${Total Dia 19-01-2013} - ${Úteis 19-01-2013}{eval-data}??
+| ^{toggle-cloak:id=Dia 20-01-2013}20/01/2013^\\ ??Lançadas: {eval-data:Total Dia 20-01-2013}sumtable("Timesheet 20-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 20-01-2013}${Total Dia 20-01-2013} - ${Úteis 20-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 21-01-2013}21/01/2013^\\ ??Lançadas: {eval-data:Total Dia 21-01-2013}sumtable("Timesheet 21-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 21-01-2013}${Total Dia 21-01-2013} - ${Úteis 21-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 22-01-2013}22/01/2013^\\ ??Lançadas: {eval-data:Total Dia 22-01-2013}sumtable("Timesheet 22-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 22-01-2013}${Total Dia 22-01-2013} - ${Úteis 22-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 23-01-2013}23/01/2013^\\ ??Lançadas: {eval-data:Total Dia 23-01-2013}sumtable("Timesheet 23-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 23-01-2013}${Total Dia 23-01-2013} - ${Úteis 23-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 24-01-2013}24/01/2013^\\ ??Lançadas: {eval-data:Total Dia 24-01-2013}sumtable("Timesheet 24-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 24-01-2013}${Total Dia 24-01-2013} - ${Úteis 24-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 25-01-2013}25/01/2013^\\ ??Lançadas: {eval-data:Total Dia 25-01-2013}sumtable("Timesheet 25-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 25-01-2013}${Total Dia 25-01-2013} - ${Úteis 25-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 26-01-2013}26/01/2013^\\ ??Lançadas: {eval-data:Total Dia 26-01-2013}sumtable("Timesheet 26-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 26-01-2013}${Total Dia 26-01-2013} - ${Úteis 26-01-2013}{eval-data}??
+| ^{toggle-cloak:id=Dia 27-01-2013}27/01/2013^\\ ??Lançadas: {eval-data:Total Dia 27-01-2013}sumtable("Timesheet 27-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 27-01-2013}${Total Dia 27-01-2013} - ${Úteis 27-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 28-01-2013}28/01/2013^\\ ??Lançadas: {eval-data:Total Dia 28-01-2013}sumtable("Timesheet 28-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 28-01-2013}${Total Dia 28-01-2013} - ${Úteis 28-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 29-01-2013}29/01/2013^\\ ??Lançadas: {eval-data:Total Dia 29-01-2013}sumtable("Timesheet 29-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 29-01-2013}${Total Dia 29-01-2013} - ${Úteis 29-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 30-01-2013}30/01/2013^\\ ??Lançadas: {eval-data:Total Dia 30-01-2013}sumtable("Timesheet 30-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 30-01-2013}${Total Dia 30-01-2013} - ${Úteis 30-01-2013}{eval-data}?? | ^{toggle-cloak:id=Dia 31-01-2013}31/01/2013^\\ ??Lançadas: {eval-data:Total Dia 31-01-2013}sumtable("Timesheet 31-01-2013", "Horas"){eval-data}??\\ ??Diferença: {eval-data:Diferença 31-01-2013}${Total Dia 31-01-2013} - ${Úteis 31-01-2013}{eval-data}?? || || |
+{column}{column}
+{cloak:id=Dia 01-01-2013}
+??*Dia 01-01-2013*?? {table-data:Timesheet 01-01-2013|initialRows=0} || Projeto || Horas || Observação || || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {text-data:Dia}01-01-2013{text-data} | {table-data}
+{cloak}
+{cloak:id=Dia 02-01-2013}
+??*Dia 02-01-2013*?? {table-data:Timesheet 02-01-2013|initialRows=0} || Projeto || Horas || Observação || || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {set-data:Dia}02-01-2013{set-data} | {table-data}
+{cloak}
+{cloak:id=Dia 03-01-2013}
+??*Dia 03-01-2013*?? {table-data:Timesheet 03-01-2013|initialRows=0} || Data || Projeto || Horas || Observação || | {set-data:Dia|type=date|format=dd-MM-yyyy}03-01-2013{set-data}| {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 04-01-2013}
+??*Dia 04-01-2013*?? {table-data:Timesheet 04-01-2013|initialRows=0} || Data || Projeto || Horas || Observação || | {set-data:Dia|type=date|format=dd-MM-yyyy}04-01-2013{set-data} | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 05-01-2013}
+??*Dia 05-01-2013*?? {table-data:Timesheet 05-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 06-01-2013}
+??*Dia 06-01-2013*?? {table-data:Timesheet 06-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 07-01-2013}
+??*Dia 07-01-2013*?? {table-data:Timesheet 07-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 08-01-2013}
+??*Dia 08-01-2013*?? {table-data:Timesheet 08-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 09-01-2013}
+??*Dia 09-01-2013*?? {table-data:Timesheet 09-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 10-01-2013}
+??*Dia 10-01-2013*?? {table-data:Timesheet 10-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 11-01-2013}
+??*Dia 11-01-2013*?? {table-data:Timesheet 11-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 12-01-2013}
+??*Dia 12-01-2013*?? {table-data:Timesheet 12-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 13-01-2013}
+??*Dia 13-01-2013*?? {table-data:Timesheet 13-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 14-01-2013}
+??*Dia 14-01-2013*?? {table-data:Timesheet 14-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 15-01-2013}
+??*Dia 15-01-2013*?? {table-data:Timesheet 15-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 16-01-2013}
+??*Dia 16-01-2013*?? {table-data:Timesheet 16-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 17-01-2013}
+??*Dia 17-01-2013*?? {table-data:Timesheet 17-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 18-01-2013}
+??*Dia 18-01-2013*?? {table-data:Timesheet 18-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 19-01-2013}
+??*Dia 19-01-2013*?? {table-data:Timesheet 19-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 20-01-2013}
+??*Dia 20-01-2013*?? {table-data:Timesheet 20-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 21-01-2013}
+??*Dia 21-01-2013*?? {table-data:Timesheet 21-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 22-01-2013}
+??*Dia 22-01-2013*?? {table-data:Timesheet 22-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 23-01-2013}
+??*Dia 23-01-2013*?? {table-data:Timesheet 23-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 24-01-2013}
+??*Dia 24-01-2013*?? {table-data:Timesheet 24-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 25-01-2013}
+??*Dia 25-01-2013*?? {table-data:Timesheet 25-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 26-01-2013}
+??*Dia 26-01-2013*?? {table-data:Timesheet 26-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 27-01-2013}
+??*Dia 27-01-2013*?? {table-data:Timesheet 27-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 28-01-2013}
+??*Dia 28-01-2013*?? {table-data:Timesheet 28-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 29-01-2013}
+??*Dia 29-01-2013*?? {table-data:Timesheet 29-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 30-01-2013}
+??*Dia 30-01-2013*?? {table-data:Timesheet 30-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{cloak:id=Dia 31-01-2013}
+??*Dia 31-01-2013*?? {table-data:Timesheet 31-01-2013|initialRows=0} || Projeto || Horas || Observação || | {list-data:Projeto|type=select|multiple=false}{content-options:parent=Projetos}{list-data}| {number-data:Horas|minValue=01|maxValue=24}1{number-data} | {text-data:Observação} | {table-data}
+{cloak}
+{column}{section}
+{card}
+{card:label=Horas úteis}
+|| Data || Dia da semana || Horas úteis ||
+| 01/01/2013 | {text-data:Semana 01-01-2013}Terça{text-data} | {number-data:Úteis 01-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 02/01/2013 | {text-data:Semana 02-01-2013}Quarta{text-data} | {number-data:Úteis 02-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 03/01/2013 | {text-data:Semana 03-01-2013}Quinta{text-data} | {number-data:Úteis 03-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 04/01/2013 | {text-data:Semana 04-01-2013}Sexta{text-data} | {number-data:Úteis 04-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 05/01/2013 | {text-data:Semana 05-01-2013}Sábado{text-data} | {number-data:Úteis 05-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 06/01/2013 | {text-data:Semana 06-01-2013}Domingo{text-data} | {number-data:Úteis 06-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 07/01/2013 | {text-data:Semana 07-01-2013}Segunda{text-data} | {number-data:Úteis 07-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 08/01/2013 | {text-data:Semana 08-01-2013}Terça{text-data} | {number-data:Úteis 08-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 09/01/2013 | {text-data:Semana 09-01-2013}Quarta{text-data} | {number-data:Úteis 09-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 10/01/2013 | {text-data:Semana 10-01-2013}Quinta{text-data} | {number-data:Úteis 10-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 11/01/2013 | {text-data:Semana 11-01-2013}Sexta{text-data} | {number-data:Úteis 11-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 12/01/2013 | {text-data:Semana 12-01-2013}Sábado{text-data} | {number-data:Úteis 12-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 13/01/2013 | {text-data:Semana 13-01-2013}Domingo{text-data} | {number-data:Úteis 13-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 14/01/2013 | {text-data:Semana 14-01-2013}Segunda{text-data} | {number-data:Úteis 14-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 15/01/2013 | {text-data:Semana 15-01-2013}Terça{text-data} | {number-data:Úteis 15-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 16/01/2013 | {text-data:Semana 16-01-2013}Quarta{text-data} | {number-data:Úteis 16-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 17/01/2013 | {text-data:Semana 17-01-2013}Quinta{text-data} | {number-data:Úteis 17-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 18/01/2013 | {text-data:Semana 18-01-2013}Sexta{text-data} | {number-data:Úteis 18-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 19/01/2013 | {text-data:Semana 19-01-2013}Sábado{text-data} | {number-data:Úteis 19-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 20/01/2013 | {text-data:Semana 20-01-2013}Domingo{text-data} | {number-data:Úteis 20-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 21/01/2013 | {text-data:Semana 21-01-2013}Segunda{text-data} | {number-data:Úteis 21-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 22/01/2013 | {text-data:Semana 22-01-2013}Terça{text-data} | {number-data:Úteis 22-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 23/01/2013 | {text-data:Semana 23-01-2013}Quarta{text-data} | {number-data:Úteis 23-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 24/01/2013 | {text-data:Semana 24-01-2013}Quinta{text-data} | {number-data:Úteis 24-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 25/01/2013 | {text-data:Semana 25-01-2013}Sexta{text-data} | {number-data:Úteis 25-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 26/01/2013 | {text-data:Semana 26-01-2013}Sábado{text-data} | {number-data:Úteis 26-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 27/01/2013 | {text-data:Semana 27-01-2013}Domingo{text-data} | {number-data:Úteis 27-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 28/01/2013 | {text-data:Semana 28-01-2013}Segunda{text-data} | {number-data:Úteis 28-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 29/01/2013 | {text-data:Semana 29-01-2013}Terça{text-data} | {number-data:Úteis 29-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 30/01/2013 | {text-data:Semana 30-01-2013}Quarta{text-data} | {number-data:Úteis 30-01-2013|minValue=0|maxValue=24}8{number-data} |
+| 31/01/2013 | {text-data:Semana 31-01-2013}Quinta{text-data} | {number-data:Úteis 31-01-2013|minValue=0|maxValue=24}8{number-data} |
+{card}
+{card:label=Aprovações}
+{run:autorun=true|replace=Projeto|titleRun=Filtrar}
+{table-plus:columnTypes=S,S,I|autoNumber=true|autoTotal=true|heading=0|enableSorting=false}
+{report-table}
+{combining-reporter}
+{local-reporter:data:Timesheet 01-01-2013}{text-filter:data:Projeto|include=.*(?i)$Projeto.*}{local-reporter}
+{local-reporter:data:Timesheet 02-01-2013}{text-filter:data:Projeto|include=.*(?i)$Projeto.*}{local-reporter}
+{combining-reporter}
+{report-column:title=Data}{report-info:data:Dia}{report-column}
+{report-column:title=Projeto}{report-info:data:Projeto}{report-column}
+{report-column:title=Horas}{report-info:data:Horas}{report-column}
+{report-table}
+{table-plus}
+{run}
+
+{report-block:injected=true}
+{combining-reporter:unique=true}
+{local-reporter:data:Timesheet 01-01-2013}{local-reporter}
+{local-reporter:data:Timesheet 02-01-2013}{local-reporter}
+{text-sort:data:Projeto}
+{combining-reporter}
+{repeat-filter:data:Projeto|match=first}
+{report-body}
+{testplan:Aprovação %data:Projeto%|includeJiraLinks=false|useFailMacro=false}
+{report-info:data:Projeto} (em {page-info:modified-date|dateFormat=dd/MM/yyyy hh:mm:sss})
+{testplan}
+{report-body}
+{report-block}
+{card}
+----
+{center}|| HORAS ÚTEIS TOTAIS: | {eval-data:Úteis}${Úteis 01-01-2013} + ${Úteis 02-01-2013}{eval-data} |
+|| LANÇADAS TOTAIS: | {eval-data:Total}${Total Dia 01-01-2013} + ${Total Dia 02-01-2013}{eval-data} |
+|| DIFERENÇA TOTAL: | {eval-data:Diferença}${Diferença 01-01-2013} + ${Diferença 02-01-2013}{eval-data}|{center}\\
